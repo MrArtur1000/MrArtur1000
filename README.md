@@ -8,7 +8,7 @@ I've been learning programming for 3 years, I'm love cookies and coffe. I use Ar
 
 *   🌍  I'm based in Bishkek
 *   ✉️  You can contact me at [tokobaevarthur@gmail.com](mailto:tokobaevarthur@gmail.com)
-*   🧠  I'm learning Swing and Bash
+*   🧠  I'm learning ASM and Bash
 *   ⚡  I'm very boring person
     ## Skills 
 <p align="left">
